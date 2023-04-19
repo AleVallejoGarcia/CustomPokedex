@@ -1,5 +1,7 @@
 # Pokedex
 
+![logo gamefreak](./images/Game_Freak_(2000).png)
+
 ## Manual de usuario
 
 Si desea acceder a un manual para usar la pokedex por favor pulse [aquí](./docs/MANUALDEUSUARIO.md)
