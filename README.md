@@ -1,18 +1,24 @@
-## Getting Started
+# Pokedex
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Manual de usuario
 
-## Folder Structure
+Si desea acceder a un manual para usar la pokedex por favor pulse [aquí](./docs/MANUALDEUSUARIO.md)
 
-The workspace contains two folders by default, where:
+## Descripción de las clases
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Si quiere acceder a una descripción de las clases del proyecto pulse [aquí](docs/DESCRIPCIONDECLASES.md)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Estructura de paquetes
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+La estructura de paquetes es la siguiente:
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- `src`: Dentro tiene todos las clases del proyecto.
+- `net`: Dominio .
+- `gamefreak`: Organización
+- `pokemon`: Paquete que contiene la clase Pokemon.
+- `pokemonLegendario`: Paquete que contiene la clase PokemonLegendario.
+- `utilities`: Paquete que contiene la lista inteligente ListaPokemon.
+- `docs`: Contiene el manual de usuario y la descripción de las clases.
+- `images`: Contiene las imágenes usadas en los documentos
+
